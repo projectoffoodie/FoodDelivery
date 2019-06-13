@@ -1,2 +1,2 @@
 # FoodDelivery
-Move the FoodDelivery folder in D:/Project/
+Uncompress Project file and Move the FoodDelivery folder in D:/Project/
